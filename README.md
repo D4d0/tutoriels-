@@ -1,4 +1,3 @@
-```markdown
 # 🤖 Assistant IA Mobile – Flutter + Firebase Studio + OpenAI
 
 Bienvenue dans ce projet de démonstration d'une application mobile Flutter connectée à Firebase Studio et à l'API ChatGPT (OpenAI).
