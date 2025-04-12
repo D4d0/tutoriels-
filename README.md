@@ -150,6 +150,5 @@ Ce projet est sous licence MIT – voir le fichier `LICENSE` pour plus d’infor
 ## 🧑‍💻 Auteur
 
 Créé par **@Vlad_K** – N’hésite pas à forker, cloner ou améliorer ce projet 🙌  
-```
 
 ---
